@@ -25,3 +25,16 @@ body , #photo-editor-panel .row{
 #imageOperationBox , #imageOperationBox2{
     display: none;
 }
+button{
+    border-radius: 5px !important;
+    border: none !important;
+    padding: 0 !important;
+    width: 100%;
+    text-align: center;
+    background-color: #0d6efd;
+    color: white;
+}
+.btn-group, .btn-group-vertical{
+    display: block !important;
+
+}
